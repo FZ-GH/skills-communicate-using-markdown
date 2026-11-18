@@ -5,3 +5,4 @@
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 - [ ] Convert my first blog post into an actual webpage.
 
+- Learned to clone a repo and commit locally
